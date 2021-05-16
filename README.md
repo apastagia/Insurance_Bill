@@ -1,6 +1,12 @@
 # Insurance_Bill
 Machine Learning - Prediction of Insurance Bill
 
+## Tools
+**PyCaret + Flask + Github + Heroku**
+
+# Problem Statement
+An insurance company wants to improve its cash flow forecasting by better predicting patient charges using demographic and basic patient health risk metrics at the time of hospitalization.
+
 Data Source: https://www.kaggle.com/mirichoi0218/insurance
 
 # PyCaret Tool
