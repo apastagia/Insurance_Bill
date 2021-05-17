@@ -760,3 +760,5 @@
 2021-05-17 15:12:23,813:INFO:Preloading libraries
 2021-05-17 15:12:46,450:INFO:Initializing load_model()
 2021-05-17 15:12:46,450:INFO:load_model(model_name=deployment, platform=None, authentication=None, verbose=True)
+2021-05-17 15:19:33,559:INFO:Initializing load_model()
+2021-05-17 15:19:33,559:INFO:load_model(model_name=deployment, platform=None, authentication=None, verbose=True)
