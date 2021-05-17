@@ -26,3 +26,7 @@ PyCaret is an open source machine learning library in Python that trains and dep
 * Regression — Predict continuous value such as Sales, Price etc.
 
 **“PyCaret is democratizing machine learning and the use of advanced analytics by providing free, open source, and low-code machine learning solution for business analysts, domain experts, citizen data scientists, and experienced data scientists”.**
+
+
+# WebApp
+![wepapp](https://user-images.githubusercontent.com/62986688/118447424-62350880-b70e-11eb-9c58-e65fd24ed772.png)
