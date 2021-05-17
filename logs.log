@@ -758,3 +758,5 @@
                 ['trained_model', LinearRegression(n_jobs=-1)]]), probability_threshold=None, encoded_labels=True, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
 2021-05-17 15:12:23,812:INFO:Checking exceptions
 2021-05-17 15:12:23,813:INFO:Preloading libraries
+2021-05-17 15:12:46,450:INFO:Initializing load_model()
+2021-05-17 15:12:46,450:INFO:load_model(model_name=deployment, platform=None, authentication=None, verbose=True)
