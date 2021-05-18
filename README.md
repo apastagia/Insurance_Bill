@@ -33,3 +33,5 @@ PyCaret is an open source machine learning library in Python that trains and dep
 
 ## Heroku link
 https://insurance-bill-pycaret.herokuapp.com/
+
+### Workflow of building a container locally to pushing it onto Azure Container Registry(ACR) and then deploying our pre-trained machine learning pipeline and flask app onto Azure Web Services.
