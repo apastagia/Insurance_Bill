@@ -2,7 +2,7 @@
 Machine Learning - Prediction of Insurance Bill
 
 ## Tools
-**PyCaret + Flask + Github + Heroku**
+**PyCaret + Flask + Github + Heroku + Microsoft Azure**
 
 # Problem Statement
 An insurance company wants to improve its cash flow forecasting by better predicting patient charges using demographic and basic patient health risk metrics at the time of hospitalization.
