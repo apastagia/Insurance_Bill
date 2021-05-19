@@ -36,3 +36,5 @@ https://insurance-bill-pycaret.herokuapp.com/
 
 ### Workflow of building a container locally to pushing it onto Azure Container Registry(ACR) and then deploying our pre-trained machine learning pipeline and flask app onto Azure Web Services.
 ![image](https://user-images.githubusercontent.com/62986688/118616506-641acc80-b7df-11eb-9e1e-0416d66fa8ad.png)
+
+Microsoft Azure is a set of cloud services that is used to build, manage and deploy applications on a massive and global network.
